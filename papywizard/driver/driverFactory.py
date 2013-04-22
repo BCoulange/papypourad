@@ -79,6 +79,7 @@ class DriverFactoryObject(QtCore.QObject):
         """
         try:
             # Bluetooth driver
+            # Nous on utilise aujourd'hui que celui la.
             if type_ == 'bluetooth':
                 if self.__drivers['bluetooth'] is None:
                     from bluetoothDriver import BluetoothDriver

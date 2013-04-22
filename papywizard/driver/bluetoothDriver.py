@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# Pour le bluetooth
+
 """ Panohead remote control.
 
 License

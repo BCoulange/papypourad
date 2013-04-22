@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# C'est a priori ce fichier qui gère le controle de la tete
+# Notre tête est une tete panogear
+
 """ Panohead remote control.
 
 License
@@ -59,7 +62,12 @@ from papywizard.hardware.abstractHardware import AbstractHardware
 
 ENCODER_ZERO = 0x800000
 
-
+# Dans cette classe, je pense qu'il y a tout ce qui nous intéresse,
+# reste que, ce que nous ne savons pas faire aujourd'hui : 
+# - Comprendre ce qui est fait dans la plupart des fonctions
+# - Les sortir de ce programme
+# En gros, si tu voyais un moyen simple d'écrire un code python qui execute ces fonctions avec le bluetooth
+# Ce serait merveilleux, mais je ne sais pas à quel point c'est complexe...
 class MerlinOrionHardware(AbstractHardware):
     """ Merlin/Orion low-level hardware.
     """
@@ -67,6 +75,8 @@ class MerlinOrionHardware(AbstractHardware):
         AbstractHardware._init(self)
         self.__encoderFullCircle = None
 
+
+# Ca si j'ai bien compris c'est juste une histoire de conversions
     def __decodeAxisValue(self, strValue):
         """ Decode value from axis.
 
@@ -124,6 +134,8 @@ class MerlinOrionHardware(AbstractHardware):
         """
         return int(pos * self.__encoderFullCircle / 360. + ENCODER_ZERO)
 
+# Je suis convaindu que c'est cette fonction qui est une des plus utile pour nous mais je comprend pas tout ce qui est fait. En particulier
+# du fait d'appel de classes un peu obscures (il utilise des "classes abstraites" et je ne sias pas trop a quoi ca correspond)
     def __sendCmd(self, cmd, param=""):
         """ Send a command to the axis.
 
@@ -222,6 +234,7 @@ class MerlinOrionHardware(AbstractHardware):
         pos = self.__encoderToAngle(self.__decodeAxisValue(value))
         return pos
 
+# C'est la fonction GOTO qui nous intéresse
     def drive(self, pos):
         """ Drive the axis.
 

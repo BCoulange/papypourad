@@ -66,7 +66,7 @@ class AbstractHardwarePlugin(AbstractPlugin):
         """ Return the associated driver.
         """
         return DriverFactory().get(self._config['DRIVER_TYPE'])
-
+# C'est ici qu'est défini le driver
     _driver = property(__getDriver)
 
     def _init(self):
