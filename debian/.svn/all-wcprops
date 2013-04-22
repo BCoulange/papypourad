@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/papywizard/!svn/ver/2498/trunk/debian
+END
+papywizard.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/papywizard/!svn/ver/1748/trunk/debian/papywizard.desktop
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/papywizard/!svn/ver/2498/trunk/debian/setup.py
+END
+bdist_debian.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/papywizard/!svn/ver/2226/trunk/debian/bdist_debian.py
+END

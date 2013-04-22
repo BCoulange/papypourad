@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/papywizard/!svn/ver/2504/trunk/windows
+END
+papywizard.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/papywizard/!svn/ver/2504/trunk/windows/papywizard.nsi
+END
+papywizard.ico
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/papywizard/!svn/ver/815/trunk/windows/papywizard.ico
+END
+buildexe.bat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/papywizard/!svn/ver/2156/trunk/windows/buildexe.bat
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/papywizard/!svn/ver/2498/trunk/windows/setup.py
+END

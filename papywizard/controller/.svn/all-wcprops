@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/papywizard/!svn/ver/2514/trunk/papywizard/controller
+END
+mainController.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/mainController.py
+END
+pluginsStatusController.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/pluginsStatusController.py
+END
+bluetoothChooserController.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/bluetoothChooserController.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/papywizard/!svn/ver/498/trunk/papywizard/controller/__init__.py
+END
+shootController.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/shootController.py
+END
+totalFovController.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/totalFovController.py
+END
+nbPictsController.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/nbPictsController.py
+END
+abstractController.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/abstractController.py
+END
+configController.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/papywizard/!svn/ver/2514/trunk/papywizard/controller/configController.py
+END
+spy.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/spy.py
+END
+gotoController.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/papywizard/!svn/ver/2499/trunk/papywizard/controller/gotoController.py
+END
+loggerController.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/loggerController.py
+END
+counterController.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/papywizard/!svn/ver/2499/trunk/papywizard/controller/counterController.py
+END
+pluginsController.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/pluginsController.py
+END
+helpAboutController.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/papywizard/!svn/ver/2498/trunk/papywizard/controller/helpAboutController.py
+END

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Papywizard
+GenericName=Panohead control software
+GenericName[en]=Panohead control software
+GenericName[fr]=Pilotage de tête panoramique
+Comment=Automate hi-res and full-spherical panos shots
+Comment[en]=Automate hi-res and full-spherical panos shots
+Comment[fr]=Automatise la prise de vue panoramique
+Icon=papywizard
+Exec=papywizard.sh
+Categories=Application;Graphics;

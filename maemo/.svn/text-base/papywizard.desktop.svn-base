@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Papywizard
+Exec=/usr/bin/papywizard.sh
+Icon=papywizard
+X-Window-Icon=papywizard
+X-Window-Icon-dimmed=papywizard
+StartupWMClass=Papywizard
+Type=Application

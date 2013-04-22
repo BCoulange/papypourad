@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/papywizard/!svn/ver/2521/trunk/papywizard/view/ui
+END
+helpAboutDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/papywizard/!svn/ver/2500/trunk/papywizard/view/ui/helpAboutDialog.ui
+END
+configDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/papywizard/!svn/ver/2514/trunk/papywizard/view/ui/configDialog.ui
+END
+pluginsStatusDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/papywizard/!svn/ver/2109/trunk/papywizard/view/ui/pluginsStatusDialog.ui
+END
+pluginsConfigDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/papywizard/!svn/ver/2134/trunk/papywizard/view/ui/pluginsConfigDialog.ui
+END
+bluetoothChooserDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/papywizard/!svn/ver/2066/trunk/papywizard/view/ui/bluetoothChooserDialog.ui
+END
+gotoDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/papywizard/!svn/ver/2483/trunk/papywizard/view/ui/gotoDialog.ui
+END
+mainWindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/papywizard/!svn/ver/2521/trunk/papywizard/view/ui/mainWindow.ui
+END
+shootDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/papywizard/!svn/ver/2456/trunk/papywizard/view/ui/shootDialog.ui
+END
+totalFovDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/papywizard/!svn/ver/2259/trunk/papywizard/view/ui/totalFovDialog.ui
+END
+counterDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/papywizard/!svn/ver/2394/trunk/papywizard/view/ui/counterDialog.ui
+END
+loggerDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/papywizard/!svn/ver/2190/trunk/papywizard/view/ui/loggerDialog.ui
+END
+pluginsDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/papywizard/!svn/ver/2494/trunk/papywizard/view/ui/pluginsDialog.ui
+END
+nbPictsDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/papywizard/!svn/ver/2346/trunk/papywizard/view/ui/nbPictsDialog.ui
+END

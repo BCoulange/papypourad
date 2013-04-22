@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/papywizard/!svn/ver/2498/trunk/maemo
+END
+papywizard.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/papywizard/!svn/ver/1620/trunk/maemo/papywizard.desktop
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/papywizard/!svn/ver/2498/trunk/maemo/setup.py
+END
+bdist_debian.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/papywizard/!svn/ver/1187/trunk/maemo/bdist_debian.py
+END

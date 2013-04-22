@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/papywizard/!svn/ver/2519/trunk/papywizard/hardware
+END
+claussHardware.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/papywizard/!svn/ver/2499/trunk/papywizard/hardware/claussHardware.py
+END
+gigaPanBotHardware.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/papywizard/!svn/ver/2498/trunk/papywizard/hardware/gigaPanBotHardware.py
+END
+merlinOrionHardware.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/papywizard/!svn/ver/2519/trunk/papywizard/hardware/merlinOrionHardware.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/papywizard/!svn/ver/2280/trunk/papywizard/hardware/__init__.py
+END
+owlHardware.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/papywizard/!svn/ver/2512/trunk/papywizard/hardware/owlHardware.py
+END
+abstractHardware.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/papywizard/!svn/ver/2498/trunk/papywizard/hardware/abstractHardware.py
+END
+pixOrbHardware.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/papywizard/!svn/ver/2498/trunk/papywizard/hardware/pixOrbHardware.py
+END
+pololuServoHardware.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/papywizard/!svn/ver/2498/trunk/papywizard/hardware/pololuServoHardware.py
+END
+ursaMinorUsbHardware.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/papywizard/!svn/ver/2498/trunk/papywizard/hardware/ursaMinorUsbHardware.py
+END

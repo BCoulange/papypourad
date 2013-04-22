@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/papywizard/!svn/ver/2521/trunk/papywizard/view
+END
+icons.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/papywizard/!svn/ver/2116/trunk/papywizard/view/icons.qrc
+END
+shootingScene.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/papywizard/!svn/ver/2498/trunk/papywizard/view/shootingScene.py
+END
+pictureItem.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/papywizard/!svn/ver/2498/trunk/papywizard/view/pictureItem.py
+END
+icons.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/papywizard/!svn/ver/2116/trunk/papywizard/view/icons.py
+END
+logBuffer.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/papywizard/!svn/ver/2498/trunk/papywizard/view/logBuffer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/papywizard/!svn/ver/498/trunk/papywizard/view/__init__.py
+END
+messageDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/papywizard/!svn/ver/2498/trunk/papywizard/view/messageDialog.py
+END
+pluginFields.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/papywizard/!svn/ver/2498/trunk/papywizard/view/pluginFields.py
+END

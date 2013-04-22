@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/papywizard/!svn/ver/2515/trunk/papywizard/common
+END
+orderedDict.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/papywizard/!svn/ver/2264/trunk/papywizard/common/orderedDict.py
+END
+loggingServices.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/papywizard/!svn/ver/2498/trunk/papywizard/common/loggingServices.py
+END
+qLoggingFormatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/papywizard/!svn/ver/2498/trunk/papywizard/common/qLoggingFormatter.py
+END
+presetManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/papywizard/!svn/ver/2498/trunk/papywizard/common/presetManager.py
+END
+presets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/papywizard/!svn/ver/2398/trunk/papywizard/common/presets.xml
+END
+publisher.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/papywizard/!svn/ver/2498/trunk/papywizard/common/publisher.py
+END
+exception.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/papywizard/!svn/ver/2498/trunk/papywizard/common/exception.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/papywizard/!svn/ver/498/trunk/papywizard/common/__init__.py
+END
+configManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/papywizard/!svn/ver/2498/trunk/papywizard/common/configManager.py
+END
+helpers.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/papywizard/!svn/ver/2498/trunk/papywizard/common/helpers.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/papywizard/!svn/ver/2515/trunk/papywizard/common/config.py
+END
+loggingFormatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/papywizard/!svn/ver/2498/trunk/papywizard/common/loggingFormatter.py
+END
+i18n.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/papywizard/!svn/ver/2102/trunk/papywizard/common/i18n.qrc
+END
+signal.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/papywizard/!svn/ver/2498/trunk/papywizard/common/signal.py
+END
+pixmaps.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/papywizard/!svn/ver/1513/trunk/papywizard/common/pixmaps.qrc
+END
+i18n.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/papywizard/!svn/ver/2509/trunk/papywizard/common/i18n.py
+END
+pixmaps.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/papywizard/!svn/ver/1687/trunk/papywizard/common/pixmaps.py
+END
+papywizard.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/papywizard/!svn/ver/2514/trunk/papywizard/common/papywizard.conf
+END

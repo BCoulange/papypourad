@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/papywizard/!svn/ver/2498/trunk/papywizard/driver
+END
+ethernetDriver.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/papywizard/!svn/ver/2276/trunk/papywizard/driver/ethernetDriver.py
+END
+serialDriver.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/papywizard/!svn/ver/2498/trunk/papywizard/driver/serialDriver.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/papywizard/!svn/ver/2276/trunk/papywizard/driver/__init__.py
+END
+abstractDriver.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/papywizard/!svn/ver/2498/trunk/papywizard/driver/abstractDriver.py
+END
+bluetoothDriver.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/papywizard/!svn/ver/2498/trunk/papywizard/driver/bluetoothDriver.py
+END
+bluetoothTransport.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/papywizard/!svn/ver/2498/trunk/papywizard/driver/bluetoothTransport.py
+END
+driverFactory.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/papywizard/!svn/ver/2498/trunk/papywizard/driver/driverFactory.py
+END
+usbDriver.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/papywizard/!svn/ver/2498/trunk/papywizard/driver/usbDriver.py
+END

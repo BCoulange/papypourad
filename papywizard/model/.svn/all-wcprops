@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/papywizard/!svn/ver/2514/trunk/papywizard/model
+END
+camera.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/papywizard/!svn/ver/2498/trunk/papywizard/model/camera.py
+END
+data.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/papywizard/!svn/ver/2498/trunk/papywizard/model/data.py
+END
+shooting.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/papywizard/!svn/ver/2514/trunk/papywizard/model/shooting.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/papywizard/!svn/ver/498/trunk/papywizard/model/__init__.py
+END
+head.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/papywizard/!svn/ver/2498/trunk/papywizard/model/head.py
+END
+lens.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/papywizard/!svn/ver/2498/trunk/papywizard/model/lens.py
+END
+scan.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/papywizard/!svn/ver/2498/trunk/papywizard/model/scan.py
+END

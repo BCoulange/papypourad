@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/papywizard/!svn/ver/2520/trunk/papywizard/plugins
+END
+ursaMinorBt2Plugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/ursaMinorBt2Plugins.py
+END
+ursaMinorUsbPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/ursaMinorUsbPlugins.py
+END
+claussPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/papywizard/!svn/ver/2510/trunk/papywizard/plugins/claussPlugins.py
+END
+pluginsConnector.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/pluginsConnector.py
+END
+gphotoBracketPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/gphotoBracketPlugins.py
+END
+panoduinoPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/panoduinoPlugins.py
+END
+merlinOrionPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/papywizard/!svn/ver/2520/trunk/papywizard/plugins/merlinOrionPlugins.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/papywizard/!svn/ver/1687/trunk/papywizard/plugins/__init__.py
+END
+abstractHardwarePlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/abstractHardwarePlugin.py
+END
+abstractShutterPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/abstractShutterPlugin.py
+END
+genericTetheredPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/genericTetheredPlugins.py
+END
+dslrRemoteProPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/dslrRemoteProPlugins.py
+END
+owlPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/papywizard/!svn/ver/2512/trunk/papywizard/plugins/owlPlugins.py
+END
+pixOrbPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/pixOrbPlugins.py
+END
+abstractAxisPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/abstractAxisPlugin.py
+END
+eosUtilityPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/eosUtilityPlugins.py
+END
+pluginsManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/pluginsManager.py
+END
+gigaPanBotPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/gigaPanBotPlugins.py
+END
+shutterPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/papywizard/!svn/ver/2505/trunk/papywizard/plugins/shutterPlugin.py
+END
+hardwarePluginController.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/hardwarePluginController.py
+END
+shutterPluginController.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/shutterPluginController.py
+END
+timelordPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/timelordPlugins.py
+END
+abstractPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/abstractPlugin.py
+END
+nkRemotePlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/nkRemotePlugins.py
+END
+abstractPluginController.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/abstractPluginController.py
+END
+simulationPlugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/simulationPlugins.py
+END
+axisPluginController.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/papywizard/!svn/ver/2498/trunk/papywizard/plugins/axisPluginController.py
+END
